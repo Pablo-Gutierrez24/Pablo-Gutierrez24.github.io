@@ -1,0 +1,41 @@
+﻿* {
+    background-color: white;
+    font-family: Arial;
+    text-align: center;
+    color: black;
+}
+
+.body1{
+    margin: 80px;
+}
+
+.list {
+    list-style-type: none;
+    font-size: 20px;
+}
+
+img{
+    margin: 10px;
+}
+
+.navbar {
+    list-style-type: none;
+    text-align: center;
+    font-size: 18px;
+    font-weight:bold;
+    border: 100px black;
+}
+
+.toplist{
+    background-color: skyblue;
+}
+
+iframe{
+    margin:30px;
+}
+
+.hola {
+    background-color: lightgray;
+    margin: 5px;
+    padding: 10px 10px 10px 10px;
+}
